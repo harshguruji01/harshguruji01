@@ -2,6 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070913,35:312e81,70:155e75,100:0891b2&height=240&section=header&text=Harsh%20Patel&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20Builder%20of%20HarshGuruJi&descSize=20&descAlignY=57" alt="Harsh Patel — Founder and builder of HarshGuruJi" width="100%" />
 </div>
 
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://webguruji.online/harshlogo.webp" alt="Harsh Patel, founder of HarshGuruJi" width="220" />
+      <br />
+      <strong>FOUNDER · CREATOR · BUILDER</strong>
+      <br />
+      <sub>Turning useful ideas into digital experiences</sub>
+    </td>
+    <td width="70%" valign="middle">
+      <h2>👋 Namaste, I’m Harsh Patel</h2>
+      <p><strong>I’m the founder and builder behind HarshGuruJi</strong> — an independent digital ecosystem that brings together education, software, web tools, AI, and community.</p>
+      <p>I like creating things that solve real problems: making study resources easier to find, building handy tools for everyday tasks, and shaping apps and websites that feel good to use. I work across an idea’s journey—from planning and interface design to implementation, testing, and ongoing improvements.</p>
+      <p><strong>My goal:</strong> make useful technology and learning experiences more approachable, accessible, and thoughtfully built.</p>
+      <p>📍 <a href="https://webguruji.online">Explore my work</a> &nbsp;·&nbsp; 💻 <a href="https://github.com/harshguruji01">See my GitHub</a> &nbsp;·&nbsp; ✉️ <a href="https://webguruji.online/contact.html">Get in touch</a></p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=67E8F9&center=true&vCenter=true&width=780&lines=I+build+technology+with+people+in+mind+%F0%9F%92%BB;Learning+%C2%B7+software+%C2%B7+community+%F0%9F%93%9A;Making+useful+digital+experiences+more+accessible+%E2%9C%A8;Ideas+into+products%2C+one+project+at+a+time+%F0%9F%9A%80" alt="Building accessible digital experiences" />
@@ -34,7 +53,7 @@
   <summary><strong>🧭 Explore this profile</strong></summary>
   <br />
 
-  - [👋 About me](#-about-me)
+  - [👋 About me](#my-story-as-a-builder)
   - [💡 My mission and approach](#-my-mission-and-approach)
   - [🌐 The HarshGuruJi ecosystem](#-the-harshguruji-ecosystem)
   - [🧩 Featured projects](#-featured-projects)
@@ -47,21 +66,23 @@
 
 ---
 
-## 👋 About Me
+## 🌱 My Story as a Builder
 
-I’m **Harsh Patel**, the founder and builder behind **HarshGuruJi**. I’m interested in the places where technology, education, and everyday life meet—and in turning useful ideas into digital experiences that people can actually use.
+My interest in technology comes back to one question: **how can software make something useful easier for someone?** That question is what connects my work on learning resources, web applications, mobile apps, and community experiences.
 
-My work spans websites, learning resources, browser-based utilities, Android applications, AI experiences, and community tools. I enjoy working across a project’s journey: shaping an idea, designing the experience, building features, connecting services, and continuing to improve the result.
+I founded **HarshGuruJi** to bring those ideas together in one growing home. Rather than focusing on a single product, I’m building a connected collection of experiences—so people can explore study materials, use practical browser tools, discover software, and connect with projects in the same ecosystem.
+
+I enjoy the full product-building process: understanding the need, organizing the experience, shaping the interface, developing the features, connecting the services, and polishing the details. Every project is also a chance to learn something new and make the next version better.
 
 > **In one line:** I build practical digital products that bring learning, software, and community together.
 
-### A little more about what I do
+### The work I enjoy
 
-- 🌐 **Build digital experiences** — responsive websites, interactive tools, and web applications.
-- 📚 **Support learning** — organize study materials and make educational resources easier to explore.
-- 📱 **Create software** — work on Android apps and cross-platform products alongside the web.
-- 🤖 **Explore AI** — develop AI-powered experiences for learning and productivity.
-- 🧑‍🤝‍🧑 **Grow community projects** — make room for users, learners, and contributors to participate.
+- 🌐 **Product and web development** — responsive websites, thoughtful interfaces, and useful web applications.
+- 📚 **Education technology** — organizing study materials and building easier ways to explore learning content.
+- 📱 **Mobile and cross-platform apps** — creating product experiences for Android and the web.
+- 🤖 **AI-powered experiences** — exploring ways AI can support learning, creativity, and productivity.
+- 🧑‍🤝‍🧑 **Community initiatives** — making room for learners and contributors to participate and grow.
 
 ## 💡 My Mission and Approach
 
@@ -96,6 +117,10 @@ HarshGuruJi started with a straightforward belief: **knowledge and useful techno
 
 **[Visit webguruji.online →](https://webguruji.online)**
 
+<div align="center">
+  <a href="https://webguruji.online"><img src="https://webguruji.online/harshguruji-home-cover.webp" alt="HarshGuruJi platform overview" width="94%" /></a>
+</div>
+
 The central portal for my work: a growing collection of learning resources, free web utilities, software, AI experiences, games, and community projects.
 
 - A connected home for multiple products and areas of interest.
@@ -107,6 +132,10 @@ The central portal for my work: a growing collection of learning resources, free
 
 **[Explore books.webguruji.online →](https://books.webguruji.online)**
 
+<div align="center">
+  <a href="https://books.webguruji.online"><img src="https://webguruji.online/harshguruji-books-ncert.webp" alt="HarshGuruJi Books digital learning library" width="94%" /></a>
+</div>
+
 A digital learning destination for students exploring textbooks and study resources. The HarshGuruJi site highlights a collection of **1,246+ NCERT textbooks across Classes 1–12**, alongside online reading and offline resource options.
 
 - Find study materials organized around classes and subjects.
@@ -117,6 +146,10 @@ A digital learning destination for students exploring textbooks and study resour
 ### ▶️ GuruTube — Android Video Experience
 
 **[Explore GuruTube on GitHub →](https://github.com/harshguruji01/GuruTube)**
+
+<div align="center">
+  <a href="https://github.com/harshguruji01/GuruTube"><img src="https://webguruji.online/gurutube-video-player.webp" alt="GuruTube video player experience" width="94%" /></a>
+</div>
 
 An Android video application focused on a smooth viewing experience and user choice. Its project documentation describes features including background playback, picture-in-picture, subtitles, gesture controls, subscriptions, and recommendation settings.
 
@@ -130,6 +163,10 @@ An Android video application focused on a smooth viewing experience and user cho
 
 **[Visit chat.webguruji.online →](https://chat.webguruji.online)**
 
+<div align="center">
+  <a href="https://chat.webguruji.online"><img src="https://webguruji.online/harshguruji-chat-community.webp" alt="HarshGuruJi ChatBase community" width="94%" /></a>
+</div>
+
 A web and Android-ready real-time messaging project. ChatBase combines personal messaging with social discovery, user profiles, and community features.
 
 - Responsive messaging interface for desktop and mobile.
@@ -141,6 +178,10 @@ A web and Android-ready real-time messaging project. ChatBase combines personal 
 ### 🤖 GuruAI — AI Assistant
 
 **[Visit ai.webguruji.online →](https://ai.webguruji.online)**
+
+<div align="center">
+  <a href="https://ai.webguruji.online"><img src="https://webguruji.online/guruai-chat-assistant.webp" alt="GuruAI assistant experience" width="94%" /></a>
+</div>
 
 An AI assistant experience within the HarshGuruJi ecosystem, with a focus on bringing AI-powered help into a product designed for everyday use.
 
