@@ -30,7 +30,7 @@ My work brings together educational content, browser-based tools, apps, and comm
 | Project | What it does |
 | --- | --- |
 | [**HarshGuruJi**](https://webguruji.online) | A digital hub for learning resources, free web tools, software, and more. |
-| [**GuruTube**](https://github.com/harshguruji01/GuruTube) | An Android video app focused on playback, discovery, and a privacy-minded experience. |
+| [**GuruTube**](https://tube.webguruji.online) | An Android video app focused on playback, discovery, and a privacy-minded experience. |
 | [**ChatBase**](https://chat.webguruji.online) | A real-time messaging and community platform for web and Android. |
 | [**GuruAI**](https://ai.webguruji.online) | An AI assistant experience for exploring ideas, learning, and getting help. |
 
